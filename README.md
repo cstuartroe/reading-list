@@ -1,4 +1,4 @@
-# CS papers/articles/blog posts/talks I've read/want to read
+# CS papers/articles/blog posts/talks I've read/watched/want to read/watch
 
 ## General
 
