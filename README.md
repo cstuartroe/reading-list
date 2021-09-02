@@ -21,3 +21,7 @@
 ### Semantics
 
 - [ ] [Henry G. Baker - Equal Rights for Functional Objects](https://p.hagelb.org/equal-rights-for-functional-objects.html)
+
+### Python
+
+- [ ] [Carl Meyer - Python at Scale: Strict Modules](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
