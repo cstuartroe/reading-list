@@ -24,6 +24,7 @@
 ### Semantics
 
 - [ ] [Henry G. Baker - Equal Rights for Functional Objects](https://p.hagelb.org/equal-rights-for-functional-objects.html)
+- [ ] [John Sundell - Utilizing value semantics in Swift](https://www.swiftbysundell.com/articles/utilizing-value-semantics-in-swift/)
 - [ ] [Dimitri Racordon et. al. - Native Implementation of Mutable Value Semantics](https://arxiv.org/abs/2106.12678)
 
 ### Compiling
