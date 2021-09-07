@@ -32,6 +32,7 @@
 
 - [ ] [Carol Chen - How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More](https://carolchen.me/blog/technical/jits-impls/)
 - [ ] [Olle Fredriksson - Query-based compiler architectures](https://ollef.github.io/blog/posts/query-based-compilers.html)
+- [ ] [Yossi Kreinin - C as an intermediate language](https://yosefk.com/blog/c-as-an-intermediate-language.html)
 
 ### Modularization
 
