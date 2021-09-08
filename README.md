@@ -21,7 +21,6 @@
 - [ ] [Yorick Peterse - Friendship ended with the garbage collector](https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/)
 - [ ] [Oleg Kiselyov - How OCaml type checker works -- or what polymorphism and garbage collection have in common](http://okmij.org/ftp/ML/generalization.html)
 
-
 ### Semantics
 
 - [ ] [Henry G. Baker - Equal Rights for Functional Objects](https://p.hagelb.org/equal-rights-for-functional-objects.html)
@@ -37,6 +36,10 @@
 ### Modularization
 
 - [ ] [Carl Meyer - Python at Scale: Strict Modules](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
+
+### Performance
+
+- [ ] [Nicolas Krassas - When Zero Cost Abstractions Aren't Zero Cost](https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html)
 
 ### History
 
