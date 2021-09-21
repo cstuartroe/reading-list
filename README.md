@@ -20,6 +20,8 @@
 
 - [ ] [Yorick Peterse - Friendship ended with the garbage collector](https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/)
 - [ ] [Oleg Kiselyov - How OCaml type checker works -- or what polymorphism and garbage collection have in common](http://okmij.org/ftp/ML/generalization.html)
+- [ ] [Chrome Security Team - An update on Memory Safety in Chrome ](https://security.googleblog.com/2021/09/an-update-on-memory-safety-in-chrome.html)
+- [ ] [Dana Jansens et al. - Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker](https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub)
 
 ### Semantics
 
