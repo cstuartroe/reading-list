@@ -15,6 +15,7 @@
 - [ ] [Zachary Palmer - Building a Typed Scripting Language](https://www.cs.swarthmore.edu/~zpalmer/publications/batsl.pdf)
 - [ ] [Stephen Dolan et al. - Counterexamples in Type Systems](https://counterexamples.org/)
 - [ ] [Slava Pestov - Swift Type Checking is Undecidable](https://forums.swift.org/t/swift-type-checking-is-undecidable/39024)
+- [ ] [Rich Hickey - Maybe Not](https://www.youtube.com/watch?v=YR5WdGrpoug)
 
 ### Memory management
 
