@@ -7,6 +7,7 @@
 ## PL 
 
 - [ ] [Robert Nystrom - Crafting Interpreters](http://craftinginterpreters.com/)
+- [ ] [Roberto Ierusalimschy et al. - The Implementation of Lua 5.0](https://www.lua.org/doc/jucs05.pdf)
 
 ### Type systems
 
