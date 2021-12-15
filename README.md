@@ -3,6 +3,7 @@
 ## General
 
 - [ ] [William J. Rapaport - Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/philcs-complete.pdf)
+- [ ] [Russ Cox - Regular Expression Matching with a Trigram Index or How Google Code Search Worked](https://swtch.com/~rsc/regexp/regexp4.html)
 
 ## PL 
 
